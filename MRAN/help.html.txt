@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Как помочь | MRAN</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>MRAN | MakeRussiaAnimeNow</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Главная</a></li>
+                <li><a href="idea.html">Наша идея</a></li>
+                <li><a href="representatives.html">Представители</a></li>
+                <li><a href="help.html">Как помочь</a></li>
+                <li><a href="socials.html">Наши соцсети</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Как помочь</h2>
+        <p>Принимаем донаты по России через Сбербанк на карту 5469550032934520. Если нет возможности помочь финансово, просим вас делиться нашим творчеством со знакомыми.</p>
+    </main>
+    <footer>
+        <p>&copy; 2024 MRAN. Все права защищены.</p>
+    </footer>
+</body>
+</html>

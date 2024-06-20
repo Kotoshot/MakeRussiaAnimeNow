@@ -1,0 +1,34 @@
+ <!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Представители | MRAN</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>MRAN | MakeRussiaAnimeNow</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Главная</a></li>
+                <li><a href="idea.html">Наша идея</a></li>
+                <li><a href="representatives.html">Представители</a></li>
+                <li><a href="help.html">Как помочь</a></li>
+                <li><a href="socials.html">Наши соцсети</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Представители</h2>
+        <p>Наши представители:</p>
+        <ul>
+            <li>Александр Абрамов, 19 лет; место обучения: ПГУПС, 1 курс; направление: маркетинг; партийный организатор.</li>
+            <li>Александр Коростелин, 19 лет; место обучения: РГАУ-МСХА, 1 курс; направление: экология и природопользование; партийный организатор.</li>
+        </ul>
+    </main>
+    <footer>
+        <p>&copy; 2024 MRAN. Все права защищены.</p>
+    </footer>
+</body>
+</html>
